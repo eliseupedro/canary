@@ -6,3 +6,4 @@ tests/*
 vcproj/*
 data-otservbr-global/world/otservbr.otbm
 canary
+client_assertions.txt
