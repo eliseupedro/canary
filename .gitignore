@@ -1,0 +1,8 @@
+config.lua
+config.lua.dist
+cmake/*
+build/*
+tests/*
+vcproj/*
+data-otservbr-global/world/otservbr.otbm
+canary
